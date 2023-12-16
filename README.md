@@ -1,3 +1,4 @@
+![logo](https://github.com/TejasAshokR/TejasAshokR/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Tejas</h1>
 <h3 align="center">A passionate VLSI Engineer from India</h3>
 <img align="right" alt="RTL coding" width="400" src="https://www.bing.com/th/id/OGC.68ecb4f6e9ebf64d37454df3541857f6?pid=1.7&rurl=https%3a%2f%2f64.media.tumblr.com%2ff9cdd7f7e01de32b08525e12a3f8c4d7%2ftumblr_oc6m5xG3NW1txeruoo2_r1_500.gifv&ehk=ln9sLev%2bRVXTVmj6kRCq2Xh2J2dzOkk54QpBFu2KhO0%3d">
